@@ -10,7 +10,7 @@ namespace JuneProject.PageObjects
     {
         public CustomerAccount()
         {
-            Console.WriteLine("The new customer class has been added");
+            Console.WriteLine("The new customer test class has been added");
         }
     }
 }
