@@ -243,6 +243,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PageObjects\ContactUsPage.cs" />
+    <Compile Include="PageObjects\CustomerAccount.cs" />
     <Compile Include="PageObjects\NewArrivalPage.cs" />
     <Compile Include="PageObjects\SignInSignUpPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
